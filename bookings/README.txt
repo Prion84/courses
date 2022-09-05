@@ -1,4 +1,7 @@
-Hotel booking data analysis. Tasks:
+HOTEL BOOKING DATA ANALYSIS
+Stack: python (pandas)
+
+Tasks:
 
 1. Import the pandas library as pd. Upload bookings.csv dataset with ; separator. 
 Check the table size, variable types, and then print the first 7 lines to look at the data
