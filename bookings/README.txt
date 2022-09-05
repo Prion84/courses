@@ -9,7 +9,7 @@ Check the table size, variable types, and then print the first 7 lines to look a
 
 4. How many nights do hotels of different types book on average?
 
-5. Sometimes the type of room received by the client (assigned_room_type) differs from the one originally booked (reserved_room_type). 
+5. Sometimes the type of room received by the client differs from the one originally booked. 
 How many such observations were found in the dataset?
 
 6. What month was the most successful booking in 2016? Did the most popular month change in 2017? 
@@ -21,6 +21,6 @@ Which one has the largest average value?
 8. Create a total_kids column by concatenating children and babies. 
 For which type of hotels did the average value of the variable turn out to be the largest?
 
-9. Create a has_kids variable that takes the value True if the client specified at least one child during the booking (total_kids), otherwise False. 
-Calculate the ratio of the number of users who left to the total number of customers, expressed as a percentage (churn rate). \
-Indicate which group has the highest rate.
+9. Create a has_kids variable (True if the client specified at least one child during the booking, otherwise False). 
+Calculate the ratio of the number of users who left to the total number of customers, expressed as a percentage.
+Indicate which group has the highest rate
