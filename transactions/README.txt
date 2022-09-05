@@ -1,8 +1,10 @@
 TRANSACTIONS ANALYSIS
 
-Stack: python (pandas)
+Stack: python (pandas, seaborn)
 
-Tasks:
+
+
+Tasks (transactions):
 1. Whether there are duplicate observations in the data? What is their number? Delete them
 
 2. If the user canceled the order, the transaction number (InvoiceNo) is preceded by C (canceled)
@@ -24,3 +26,18 @@ Which of the products was added to the cart most often, except for POST?
 
 8. For each transaction (InvoiceNo), calculate the final amount of the order
 Indicate the top 5 (InvoiceNo) by order amount (comma-separated with a space and in descending order of TotalRevenue)
+
+
+
+
+Tasks (transactions):
+1. Check what values the transaction column takes?
+How many observations belong to one level or another? Visualize the result with a barplot
+
+2. How many errors happened?
+
+3. How many transactions did each user make?
+
+4. Build a pivot table with updated data
+
+5. Find the error in data and fix it
