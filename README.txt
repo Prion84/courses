@@ -1,4 +1,4 @@
-Here are the solutions to training problems from the course "Data Analyst" (08.2022 - 01.2023) of the Karpov school:
+## Here are the solutions to training problems from the course "Data Analyst" (08.2022 - 01.2023) of the Karpov school:
 https://karpov.courses/
 
 The course includes 10 modules:
