@@ -1,6 +1,6 @@
-Bicycle rental analysis
+Bicycle rental analysis (data from London, from January 4, 2015 to January 3, 2017)
 
-Stack: Python (pandas, numpy, scipy, seaborn)
+Stack: Python (pandas, numpy, scipy, seaborn), statistics
 
 Tasks:
 1. Plot the number of trips by date and time
@@ -11,4 +11,4 @@ Find the standard deviation
 5. Determine the boundaries of the 99% confidence interval, add this information to the dataframe
 6. Examine the abnormally high values and indicate the day when the number of rentals was the highest.
 Find the cause of this anomaly
-6. Examine the abnormally low values, find the day with the fewest rentals. Find the cause of this anomaly
+7. Examine the abnormally low values, find the day with the fewest rentals. Find the cause of this anomaly
